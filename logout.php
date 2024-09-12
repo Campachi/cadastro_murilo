@@ -1,6 +1,6 @@
 <?php
 
-        include ('include/inicia_sessao.php');
+        include ('inicia_sessao.php');
 
         session_unset();
 
