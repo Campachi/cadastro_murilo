@@ -7,6 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <?php
+        include('includes/conexao.php');
+        if(empty($_SESSION['login'])){
+             header ("location: login.html ");
+        }
+
         include('menu.php');
     ?>
     

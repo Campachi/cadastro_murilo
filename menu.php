@@ -5,6 +5,7 @@
             <li><a href="ListarCidade.php">Listar Cidade</a></li>
             <li><a href="CadastroCliente.php">Cadastrar Cliente</a></li>
             <li><a href="ListarCliente.php">Listar Cliente</a></li>
+            <li><a href="login.html">login</a></li>
 
         </ul>
     </div>
